@@ -27,10 +27,10 @@ El primer paso fue la documentación realizada para aceptar la solicitud mediant
 Mediante el trabajo de reconocimiento de los clientes a los que el despacho aspira se pudo elegir un tipo de persona.
 
 Nuestro buyer persona es alguien con una licenciatura que se encuentra emprendiendo su propio negocio completamente alfabeta tecnologico que está en una posición económica de clase media a media alta que mantiene su ocupación en horarios completos y carece de tiempo libre.
-[Buyer persona](https://raw.githubusercontent.com/Desbarrancadero/FrontEnd-Mission-INTRO/main/buyerpersona.pdf)
+[Buyer persona](https://github.com/Desbarrancadero/FrontEnd-Mission-INTRO/blob/main/buyer%20persona.pdf)
 
 Nuestro público target son jóvenes licenciados que emprenden de clase media alto, son solteros sin hijos que utilizan frecuentemente las aplicaciones de reparto y servicios de taxis de la ciudad de San Luis Potosí
-[Público target ](https://raw.githubusercontent.com/Desbarrancadero/FrontEnd-Mission-INTRO/main/PublicoObjetivo.pdf)
+[Público target ](https://github.com/Desbarrancadero/FrontEnd-Mission-INTRO/blob/main/Publico%20Objetivo.pdf)
 
 ## Wideframe UX/IU
 Como propuesta para el WideframeUx se planteo una página web en dos ramas principales: La creación de una demanda y el seguimiento de esta misma.
